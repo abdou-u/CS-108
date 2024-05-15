@@ -11,10 +11,6 @@ JaVelo est un planificateur d'itinéraires vélo en Suisse, développé en Java.
 - **Modification d'itinéraires** : Ajoutez, supprimez ou déplacez des points de passage pour recalculer l'itinéraire et son profil en long en temps réel.
 - **Relief précis** : Utilise le modèle altimétrique SwissALTI3D fourni par l'office fédéral de topographie (swisstopo) pour des données de relief précises en Suisse.
 
-## Captures d'écran
-
-![Interface de JaVelo](C:\Users\ubci\OneDrive\Bureau\Javelo\capture.png)
-
 ## Technologies utilisées
 
 - **Java** : Langage de programmation principal.
