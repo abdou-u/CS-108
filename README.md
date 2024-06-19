@@ -20,7 +20,7 @@ JaVelo est un planificateur d'itinéraires vélo en Suisse, développé en Java.
 
 1. Clonez le dépôt : 
     ```bash
-    git clone https://github.com/abdou-u/javelo.git
+    git clone https://github.com/abdou-u/JaVelo.git
     ```
 2. Ouvrez le projet dans votre IDE Java préféré.
 3. Assurez-vous d'avoir Java et JavaFX installés sur votre machine.
